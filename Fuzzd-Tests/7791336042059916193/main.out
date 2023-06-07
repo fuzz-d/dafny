@@ -1,0 +1,594 @@
+main.dfy(437,39): Warning: /!\ No terms found to trigger on.
+main.dfy(729,31): Warning: /!\ No terms found to trigger on.
+main.dfy(741,134): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+false
+true
+false
+false
+false
+false
+false
+true
+true
+false
+false
+false
+true
+true
+false
+false
+631
+true
+true
+-299
+-298
+631
+-296
+-295
+-294
+-293
+-292
+-291
+-290
+-289
+-288
+true
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+185
+false
+-613
+true
+false
+false
+false
+false
+false
+true
+true
+false
+false
+false
+true
+true
+false
+false
+false
+883
+true
+true
+true
+true
+907
+463
+true
+false
+325
+-299
+-298
+631
+-296
+-295
+-294
+-293
+-292
+-291
+-290
+-289
+-288
+true
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+248
+true
+'a'
+0
+631
+-631
+false
+true
+false
+300
+1
+5
+true
+false
+true
+true
+'d'
+true
+true
+true
+false
+true
+main.dfy(437,39): Warning: /!\ No terms found to trigger on.
+main.dfy(729,31): Warning: /!\ No terms found to trigger on.
+main.dfy(741,134): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:553: error: incompatible types: CodePoint cannot be converted to int
+            return dafny.CodePoint.valueOf(_318_v70);
+                                           ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:554: error: incompatible types: int cannot be converted to CodePoint
+          })).apply(_292_v70))) : (dafny.DafnySequence.asUnicodeString("d")));
+                    ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:587: error: incompatible types: int cannot be converted to CodePoint
+        _coll7.put(_326_v88,_325_p0);
+                   ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:594: error: incompatible types: int cannot be converted to CodePoint
+          _327_v90 = _System.D4.create_DC16(dafny.DafnyMap.<dafny.CodePoint, java.math.BigInteger>update(dafny.DafnyMap.fromElements(new dafny.Tuple2(_292_v70, p0)), _292_v70, p0), (_323_v89).dtor_cf35());
+                                                                                                                                                                      ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:896: error: incompatible types: Object cannot be converted to D1
+              for (D1 _compr_9_boxed0 : (dafny.DafnyMap.fromElements(new dafny.Tuple2(_System.D1.create_DC6(_386_v134), _387_v135))).keySet().Elements()) {
+                                                                                                                                                      ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:1243: error: incompatible types: CodePoint cannot be converted to int
+              return dafny.CodePoint.valueOf(_471_v32);
+                                             ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:1244: error: incompatible types: int cannot be converted to CodePoint
+            })).apply(_463_v32));
+                      ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:1255: error: incompatible types: CodePoint cannot be converted to int
+              return dafny.CodePoint.valueOf(_473_v32);
+                                             ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:1256: error: incompatible types: int cannot be converted to CodePoint
+            })).apply(_463_v32));
+                      ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:1281: error: incompatible types: CodePoint cannot be converted to int
+              return dafny.CodePoint.valueOf(_477_v32);
+                                             ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C2.java:1282: error: incompatible types: int cannot be converted to CodePoint
+            })).apply(_463_v32);
+                      ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C1.java:42: error: incompatible types: int[] cannot be converted to char[]
+            int[][] _nw0 = (int[][]) dafny.TypeDescriptor.CHAR_ARRAY.fillThenReturnArray(dafny.TypeDescriptor.CHAR_ARRAY.newArray(dafny.Helpers.toIntChecked((java.math.BigInteger.valueOf(27L)), "Java arrays may be no larger than the maximum 32-bit signed int")), new int[0]);
+                                                                                                                                                                                                                                                                       ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C1.java:573: error: incompatible types: inference variable T has incompatible bounds
+        _133_v87 = dafny.DafnyMultiset.of(_119_v85);
+                                         ^
+    upper bounds: D2[],Object
+    lower bounds: D2
+  where T is a type-variable:
+    T extends Object declared in method <T>of(T...)
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C1.java:645: error: incompatible types: CodePoint cannot be converted to int
+          return dafny.CodePoint.valueOf(_142_v91);
+                                         ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/C1.java:646: error: incompatible types: int cannot be converted to CodePoint
+        })).apply(_137_v91))));
+                  ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/__default.java:61: error: incompatible types: Object cannot be converted to BigInteger
+  for (java.math.BigInteger _compr_13_boxed0 : (dafny.DafnyMap.fromElements(new dafny.Tuple2(java.math.BigInteger.valueOf(752L), true))).keySet().Elements()) {
+                                                                                                                                                          ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/__default.java:517: error: incompatible types: CodePoint cannot be converted to int
+        return dafny.CodePoint.valueOf(_581_v45);
+                                       ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/__default.java:518: error: incompatible types: int cannot be converted to CodePoint
+      })).apply(_579_v45)), _509_globalState);
+                ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/__default.java:830: error: incompatible types: CodePoint cannot be converted to int
+      return dafny.CodePoint.valueOf(_669_v95);
+                                     ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/__default.java:831: error: incompatible types: int cannot be converted to CodePoint
+    })).apply(_664_v95)), (_501_v1)[(dafny.Helpers.toInt((__default.safeIndex(java.math.BigInteger.valueOf(101L), java.math.BigInteger.valueOf(java.lang.reflect.Array.getLength((_501_v1)))))))]);
+              ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/__default.java:887: error: incompatible types: CodePoint cannot be converted to int
+  return dafny.CodePoint.valueOf(_683_v95);
+                                 ^
+/Users/alex/fyp/dafny/Fuzzd-Tests/7791336042059916193/main-java/_System/__default.java:888: error: incompatible types: int cannot be converted to CodePoint
+})).apply(_664_v95)))).dtor_cf9());
+          ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+22 errors
+Error while compiling Java files. Process exited with exit code 1
+main.dfy(437,39): Warning: /!\ No terms found to trigger on.
+main.dfy(729,31): Warning: /!\ No terms found to trigger on.
+main.dfy(741,134): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+false
+true
+false
+false
+false
+false
+false
+true
+true
+false
+false
+false
+true
+true
+false
+false
+631
+true
+true
+-299
+-298
+631
+-296
+-295
+-294
+-293
+-292
+-291
+-290
+-289
+-288
+true
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+185
+false
+-613
+true
+false
+false
+false
+false
+false
+true
+true
+false
+false
+false
+true
+true
+false
+false
+false
+883
+true
+true
+true
+true
+907
+463
+true
+false
+325
+-299
+-298
+631
+-296
+-295
+-294
+-293
+-292
+-291
+-290
+-289
+-288
+true
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+248
+true
+'a'
+0
+631
+-631
+false
+true
+false
+300
+1
+5
+true
+false
+true
+true
+'d'
+true
+true
+true
+false
+true
+main.dfy(437,39): Warning: /!\ No terms found to trigger on.
+main.dfy(729,31): Warning: /!\ No terms found to trigger on.
+main.dfy(741,134): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+false
+true
+false
+false
+false
+false
+false
+true
+true
+false
+false
+false
+true
+true
+false
+false
+631
+true
+true
+-299
+-298
+631
+-296
+-295
+-294
+-293
+-292
+-291
+-290
+-289
+-288
+true
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+185
+false
+-613
+true
+false
+false
+false
+false
+false
+true
+true
+false
+false
+false
+true
+true
+false
+false
+false
+883
+true
+true
+true
+true
+907
+463
+true
+false
+325
+-299
+-298
+631
+-296
+-295
+-294
+-293
+-292
+-291
+-290
+-289
+-288
+true
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+248
+true
+'a'
+0
+631
+-631
+false
+true
+false
+300
+1
+5
+true
+false
+true
+true
+'d'
+true
+true
+true
+false
+true
+main.dfy(437,39): Warning: /!\ No terms found to trigger on.
+main.dfy(729,31): Warning: /!\ No terms found to trigger on.
+main.dfy(741,134): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+false
+true
+false
+false
+false
+false
+false
+true
+true
+false
+false
+false
+true
+true
+false
+false
+631
+true
+true
+-299
+-298
+631
+-296
+-295
+-294
+-293
+-292
+-291
+-290
+-289
+-288
+true
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+185
+false
+-613
+true
+false
+false
+false
+false
+false
+true
+true
+false
+false
+false
+true
+true
+false
+false
+false
+883
+true
+true
+true
+true
+907
+463
+true
+false
+325
+-299
+-298
+631
+-296
+-295
+-294
+-293
+-292
+-291
+-290
+-289
+-288
+true
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+248
+true
+'a'
+0
+631
+-631
+false
+true
+false
+300
+1
+5
+true
+false
+true
+true
+'d'
+true
+true
+true
+false
+true

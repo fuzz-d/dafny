@@ -1,0 +1,544 @@
+main.dfy(89,28): Warning: /!\ No terms found to trigger on.
+main.dfy(89,246): Warning: /!\ No terms found to trigger on.
+main.dfy(95,206): Warning: /!\ No terms found to trigger on.
+main.dfy(173,47): Warning: /!\ No terms found to trigger on.
+main.dfy(357,131): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+false
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+-351649
+'m'
+true
+true
+true
+true
+1
+-593
+5
+-593
+-593
+1
+-593
+1
+-1
+-593
+-593
+-593
+-593
+3
+-593
+-593
+-593
+2
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+687
+-503
+false
+-351649
+hlorf
+2
+true
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhekxcqxnor
+351649
+true
+true
+true
+-593
+5
+-593
+-593
+1
+-593
+1
+-1
+-593
+-593
+-593
+-593
+3
+-593
+-593
+-593
+0
+main.dfy(89,28): Warning: /!\ No terms found to trigger on.
+main.dfy(89,246): Warning: /!\ No terms found to trigger on.
+main.dfy(95,206): Warning: /!\ No terms found to trigger on.
+main.dfy(173,47): Warning: /!\ No terms found to trigger on.
+main.dfy(357,131): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:57: error: incompatible types: DafnyMultiset<DafnyMap> cannot be converted to DafnyMultiset<? extends DafnyMap<? extends CodePoint,? extends BigInteger>>
+    })).apply()), dafny.DafnyMultiset.of(dafny.DafnyMap.fromElements(new dafny.Tuple2('w', java.math.BigInteger.valueOf(63L))), dafny.DafnyMap.fromElements(new dafny.Tuple2('n', java.math.BigInteger.valueOf((dafny.DafnyMap.fromElements(new dafny.Tuple2(java.math.BigInteger.valueOf(857L), false))).size())))))).<dafny.DafnyMap<? extends dafny.CodePoint, ? extends java.math.BigInteger>>contains(dafny.DafnyMap.<dafny.CodePoint, java.math.BigInteger>merge(dafny.DafnyMap.fromElements(new dafny.Tuple2('m', java.math.BigInteger.valueOf((dafny.DafnyMap.fromElements(new dafny.Tuple2(false, java.math.BigInteger.valueOf(499L)))).size()))), dafny.DafnyMap.fromElements(new dafny.Tuple2('p', java.math.BigInteger.valueOf(-780L)))));
+                                        ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:47: error: incompatible types: Object cannot be converted to CodePoint
+      for (dafny.CodePoint _compr_0_boxed0 : (dafny.DafnyMap.fromElements(new dafny.Tuple2('t', java.math.BigInteger.valueOf(190L)))).keySet().Elements()) {
+                                                                                                                                                       ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:52: error: incompatible types: int cannot be converted to CodePoint
+            _coll0.put(_0_v0,java.math.BigInteger.valueOf((dafny.DafnySequence.of(dafny.TypeDescriptor.BIG_INTEGER, java.math.BigInteger.valueOf(9L))).length()));
+                       ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:171: error: incompatible types: Object cannot be converted to DafnyMap<? extends BigInteger,? extends BigInteger>
+        for (dafny.DafnyMap<? extends java.math.BigInteger, ? extends java.math.BigInteger> _compr_5_boxed0 : (dafny.DafnyMap.fromElements(new dafny.Tuple2(dafny.DafnyMap.fromElements(new dafny.Tuple2(java.math.BigInteger.valueOf(633L), java.math.BigInteger.valueOf(703L))), true))).keySet().Elements()) {
+                                                                                                                                                                                                                                                                                                            ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:490: error: incompatible types: int cannot be converted to CodePoint
+        })).apply()).apply(_17_v0, _51_v22), _17_v0, dafny.CodePoint.valueOf(_51_v22))).size())).subtract(_17_v0)) : (_17_v0));
+                                   ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:508: error: incompatible types: CodePoint cannot be converted to int
+          return dafny.CodePoint.valueOf(_94_v22);
+                                         ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:509: error: incompatible types: int cannot be converted to CodePoint
+        })).apply(_51_v22));
+                  ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1065: error: incompatible types: CodePoint cannot be converted to int
+      return dafny.CodePoint.valueOf(_214_v4);
+                                     ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1066: error: incompatible types: int cannot be converted to CodePoint
+    })).apply(_204_v4)));
+              ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1312: error: incompatible types: CodePoint cannot be converted to int
+        return dafny.CodePoint.valueOf(_253_v4);
+                                       ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1313: error: incompatible types: int cannot be converted to CodePoint
+      })).apply(_204_v4)), _216_v13);
+                ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1350: error: incompatible types: CodePoint cannot be converted to int
+        return dafny.CodePoint.valueOf(_260_v4);
+                                       ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1351: error: incompatible types: int cannot be converted to CodePoint
+      })).apply(_204_v4));
+                ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1729: error: incompatible types: CodePoint cannot be converted to int
+          return dafny.DafnySequence.<dafny.CodePoint>update(_344_v13, dafny.Helpers.toInt((__default.safeIndex(_345_v42.f9, java.math.BigInteger.valueOf((_344_v13).length())))), dafny.CodePoint.valueOf(_346_v4));
+                                                                                                                                                                                                           ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1730: error: incompatible types: int cannot be converted to CodePoint
+        })).apply(_216_v13, _252_v42, _204_v4);
+                                      ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1739: error: incompatible types: CodePoint cannot be converted to int
+          return dafny.CodePoint.valueOf(_348_v4);
+                                         ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1740: error: incompatible types: int cannot be converted to CodePoint
+        })).apply(_204_v4)), _216_v13);
+                  ^
+/Users/alex/fyp/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-8797980947469985237/main-java/_System/__default.java:1746: error: incompatible types: char cannot be converted to CodePoint
+        _350_v98 = dafny.DafnyMap.<dafny.CodePoint, java.math.BigInteger>update(_350_v98, 'd', _252_v42.f9);
+                                                                                          ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+18 errors
+Error while compiling Java files. Process exited with exit code 1
+main.dfy(89,28): Warning: /!\ No terms found to trigger on.
+main.dfy(89,246): Warning: /!\ No terms found to trigger on.
+main.dfy(95,206): Warning: /!\ No terms found to trigger on.
+main.dfy(173,47): Warning: /!\ No terms found to trigger on.
+main.dfy(357,131): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+false
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+-351649
+'m'
+true
+true
+true
+true
+1
+-593
+5
+-593
+-593
+1
+-593
+1
+-1
+-593
+-593
+-593
+-593
+3
+-593
+-593
+-593
+2
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+687
+-503
+false
+-351649
+hlorf
+2
+true
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhekxcqxnor
+351649
+true
+true
+true
+-593
+5
+-593
+-593
+1
+-593
+1
+-1
+-593
+-593
+-593
+-593
+3
+-593
+-593
+-593
+0
+main.dfy(89,28): Warning: /!\ No terms found to trigger on.
+main.dfy(89,246): Warning: /!\ No terms found to trigger on.
+main.dfy(95,206): Warning: /!\ No terms found to trigger on.
+main.dfy(173,47): Warning: /!\ No terms found to trigger on.
+main.dfy(357,131): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+false
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+-351649
+'m'
+true
+true
+true
+true
+1
+-593
+5
+-593
+-593
+1
+-593
+1
+-1
+-593
+-593
+-593
+-593
+3
+-593
+-593
+-593
+2
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+687
+-503
+false
+-351649
+hlorf
+2
+true
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhekxcqxnor
+351649
+true
+true
+true
+-593
+5
+-593
+-593
+1
+-593
+1
+-1
+-593
+-593
+-593
+-593
+3
+-593
+-593
+-593
+0
+main.dfy(89,28): Warning: /!\ No terms found to trigger on.
+main.dfy(89,246): Warning: /!\ No terms found to trigger on.
+main.dfy(95,206): Warning: /!\ No terms found to trigger on.
+main.dfy(173,47): Warning: /!\ No terms found to trigger on.
+main.dfy(357,131): Warning: /!\ No terms found to trigger on.
+
+Dafny program verifier did not attempt verification
+false
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+-351649
+'m'
+true
+true
+true
+true
+1
+-593
+5
+-593
+-593
+1
+-593
+1
+-1
+-593
+-593
+-593
+-593
+3
+-593
+-593
+-593
+2
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+true
+true
+true
+false
+true
+true
+true
+false
+true
+true
+false
+687
+-503
+false
+-351649
+hlorf
+2
+true
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhekxcqxnor
+351649
+true
+true
+true
+-593
+5
+-593
+-593
+1
+-593
+1
+-1
+-593
+-593
+-593
+-593
+3
+-593
+-593
+-593
+0
