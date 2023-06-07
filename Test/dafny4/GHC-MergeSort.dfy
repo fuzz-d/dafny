@@ -1,5 +1,4 @@
 // RUN: %dafny /compile:0 /dprint:"%t.dprint" /autoTriggers:0 "%s" > "%t"
-// RUN: %diff "%s.expect" "%t"
 
 // Rustan Leino
 // 23 Dec 2013 (completed in 5 hours, but is missing the formulation and proof that the
