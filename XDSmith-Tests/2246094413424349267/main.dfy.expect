@@ -1,0 +1,160 @@
+
+Dafny program verifier did not attempt verification
+Y
+()
+[]
+({-1085714569, -220003720, 905773325, 1165203575}, multiset{})
+([multiset{('c', (), 297032371), ('y', (), -1085714569), ('y', (), -1085714569), ('y', (), -1085714569), ('i', (), -220003720)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}], {(('J', 1535875554, true), -609880494)})'\"'
+true
+multiset{false, true, true}
+true
+Y
+()
+[]
+mEHJCx$;@W@CfI:^CjqL|w|a-g()
+'F'(['v', 'B', 'f', 'S', ':', 'X', '~', 'Y', 'l', 'w', '\"', '=', 'f', '?', '<', 'k'], true, true)
+{}
+()
+multiset{}
+[(({-1566109775, 727831326}, false), ()), (({-609880494, -170645690, 385811030, 1676219979}, true), ())]false
+[[';', '!', 'm', '%', 'a', 'u', '?', 'r', 'f', 'q', 'L', '@'], ['C', 'H', 'T', 'H'], ['A', '>', 'd', 'q', 'J', 'k', 'z', 'g', 'E', 'n', 'L', 'c', 'f', 'A', 'E', 'R'], ['C', 'H', 'T', 'H']]
+(System.Func`6[_System._ITuple0,System.Boolean,_System._ITuple0,Dafny.ISet`1[_System._ITuple0],Dafny.IMultiSet`1[Dafny.Rune],_System._ITuple2`2[System.Numerics.BigInteger,_System._ITuple0]], ['c', 'R', 'b', 'D', 'O', 'I', '<', '\"', '&', 'C', 'Y', 'v', 'v', 'f', 'f', 'j', 'U', 'k', '&', '%', '/', 'U', 'n', 'Q', 'N', 'V', 't', 'r', '/', 'U'])[['|', '\'', 'R', 'j', 'p', ':', 'e', '$', 'Z', 'd', '>', 'u', 'W', 'P', 'j', 't', ':', 'v', 'w', '>', '\"', 'J', '@', 'D', 'u', 'V']]
+true
+{{false}, {true}, {false, true}}-984551019
+('U', {-1215238448, -564899479, -170645690, 1711606252}, multiset{false, false, false, true})
+1007738232System.Func`1[Dafny.IMultiSet`1[Dafny.Rune]]
+195509236672120208true
+-1843141671
+false({-18139583, 990025716}, [true, true])
+'&'
+[(([], 'B'), (('<', ([false], (['p', '|', 's', '_', 'M', 'P', 'Y', 'm', 'B', 'q', 'Y', '^', '<', 'R', 'G', 't', 'x', '+', 'G', '*', 'K'], multiset{multiset{}, multiset{multiset{true}, multiset{false, true, true}, multiset{false, false, true, true, true}}}), ())), false), ['v', 'N', '!', 'g']), (([true, false, true], 'Q'), (('L', ([false, false, false], (['Q', 'L', 'M', '_', 'S', 'F', 'Z', '=', 'z', ':', 'a', '?'], multiset{multiset{multiset{false}}, multiset{multiset{false}}, multiset{multiset{false}}}), ())), false), []), (([true, true, true], '-'), (('z', ([false, false], ([], multiset{multiset{multiset{}, multiset{false, false, true, true}, multiset{false, false, true, true}}}), ())), false), ['g', 'm', '|'])]
+Mq'Z_%YWVyP!uzXd/Lt;AkiF-
+[{}, {-495214154, 958899950}, {-1460215406}, {-1586706699}, {1046350686}]
+multiset{(multiset{}, multiset{-1565494165, -1095939377, -403366413, 145708557, 145708557}, ()), (multiset{false}, multiset{-2091723846, -1215238448, 344533039, 1239834354}, ())}true
+eEb|i-2
+
+Dafny program verifier did not attempt verification
+/Users/alex/fyp/xdsmith/output/2246094413424349267/main-java/_System/__default.java:2956: error: incompatible types: CodePoint cannot be converted to int
+  return dafny.Tuple2.<dafny.DafnyMultiset<? extends dafny.CodePoint>, dafny.DafnyMultiset<? extends java.math.BigInteger>>create(dafny.DafnyMultiset.of(dafny.CodePoint.valueOf('Y'), dafny.CodePoint.valueOf(_1015_lift__8), dafny.CodePoint.valueOf(_1016_lift__625), dafny.CodePoint.valueOf(_1017_lift__267), dafny.CodePoint.valueOf(_1018_lift__615)), dafny.DafnyMultiset.of(java.math.BigInteger.valueOf(-1259440802L), _1019_lift__399, _1020_lift__121, _1021_lift__147));
+                                                                                                                                                                                                               ^
+/Users/alex/fyp/xdsmith/output/2246094413424349267/main-java/_System/__default.java:2956: error: incompatible types: CodePoint cannot be converted to int
+  return dafny.Tuple2.<dafny.DafnyMultiset<? extends dafny.CodePoint>, dafny.DafnyMultiset<? extends java.math.BigInteger>>create(dafny.DafnyMultiset.of(dafny.CodePoint.valueOf('Y'), dafny.CodePoint.valueOf(_1015_lift__8), dafny.CodePoint.valueOf(_1016_lift__625), dafny.CodePoint.valueOf(_1017_lift__267), dafny.CodePoint.valueOf(_1018_lift__615)), dafny.DafnyMultiset.of(java.math.BigInteger.valueOf(-1259440802L), _1019_lift__399, _1020_lift__121, _1021_lift__147));
+                                                                                                                                                                                                                                                       ^
+/Users/alex/fyp/xdsmith/output/2246094413424349267/main-java/_System/__default.java:2956: error: incompatible types: CodePoint cannot be converted to int
+  return dafny.Tuple2.<dafny.DafnyMultiset<? extends dafny.CodePoint>, dafny.DafnyMultiset<? extends java.math.BigInteger>>create(dafny.DafnyMultiset.of(dafny.CodePoint.valueOf('Y'), dafny.CodePoint.valueOf(_1015_lift__8), dafny.CodePoint.valueOf(_1016_lift__625), dafny.CodePoint.valueOf(_1017_lift__267), dafny.CodePoint.valueOf(_1018_lift__615)), dafny.DafnyMultiset.of(java.math.BigInteger.valueOf(-1259440802L), _1019_lift__399, _1020_lift__121, _1021_lift__147));
+                                                                                                                                                                                                                                                                                                 ^
+/Users/alex/fyp/xdsmith/output/2246094413424349267/main-java/_System/__default.java:2956: error: incompatible types: CodePoint cannot be converted to int
+  return dafny.Tuple2.<dafny.DafnyMultiset<? extends dafny.CodePoint>, dafny.DafnyMultiset<? extends java.math.BigInteger>>create(dafny.DafnyMultiset.of(dafny.CodePoint.valueOf('Y'), dafny.CodePoint.valueOf(_1015_lift__8), dafny.CodePoint.valueOf(_1016_lift__625), dafny.CodePoint.valueOf(_1017_lift__267), dafny.CodePoint.valueOf(_1018_lift__615)), dafny.DafnyMultiset.of(java.math.BigInteger.valueOf(-1259440802L), _1019_lift__399, _1020_lift__121, _1021_lift__147));
+                                                                                                                                                                                                                                                                                                                                           ^
+/Users/alex/fyp/xdsmith/output/2246094413424349267/main-java/_System/__default.java:2957: error: incompatible types: int cannot be converted to CodePoint
+})).apply(_780_lift__8, _413_lift__625, _608_lift__267, _423_lift__615, _533_lift__399, _682_lift__121, _665_lift__147), true)));
+          ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+5 errors
+Error while compiling Java files. Process exited with exit code 1
+
+Dafny program verifier did not attempt verification
+Y
+()
+[]
+({-220003720, 1165203575, 905773325, -1085714569}, multiset{})
+([multiset{('i', (), -220003720), ('y', (), -1085714569), ('y', (), -1085714569), ('y', (), -1085714569), ('c', (), 297032371)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}], {(('J', 1535875554, true), -609880494)})'\"'
+true
+multiset{false, true, true}
+true
+Y
+()
+[]
+mEHJCx$;@W@CfI:^CjqL|w|a-g()
+'F'(['v', 'B', 'f', 'S', ':', 'X', '~', 'Y', 'l', 'w', '\"', '=', 'f', '?', '<', 'k'], true, true)
+{}
+()
+multiset{}
+[(({-1566109775, 727831326}, false), ()), (({385811030, -609880494, 1676219979, -170645690}, true), ())]false
+[[';', '!', 'm', '%', 'a', 'u', '?', 'r', 'f', 'q', 'L', '@'], ['C', 'H', 'T', 'H'], ['A', '>', 'd', 'q', 'J', 'k', 'z', 'g', 'E', 'n', 'L', 'c', 'f', 'A', 'E', 'R'], ['C', 'H', 'T', 'H']]
+(Function, ['c', 'R', 'b', 'D', 'O', 'I', '<', '\"', '&', 'C', 'Y', 'v', 'v', 'f', 'f', 'j', 'U', 'k', '&', '%', '/', 'U', 'n', 'Q', 'N', 'V', 't', 'r', '/', 'U'])[['|', '\'', 'R', 'j', 'p', ':', 'e', '$', 'Z', 'd', '>', 'u', 'W', 'P', 'j', 't', ':', 'v', 'w', '>', '\"', 'J', '@', 'D', 'u', 'V']]
+true
+{{false, true}, {true}, {false}}-984551019
+('U', {-1215238448, -564899479, 1711606252, -170645690}, multiset{false, false, false, true})
+1007738232Function
+195509236672120208true
+-1843141671
+false({-18139583, 990025716}, [true, true])
+'&'
+[(([], 'B'), (('<', ([false], (['p', '|', 's', '_', 'M', 'P', 'Y', 'm', 'B', 'q', 'Y', '^', '<', 'R', 'G', 't', 'x', '+', 'G', '*', 'K'], multiset{multiset{multiset{true}, multiset{false, false, true, true, true}, multiset{true, true, false}}, multiset{}}), ())), false), ['v', 'N', '!', 'g']), (([true, false, true], 'Q'), (('L', ([false, false, false], (['Q', 'L', 'M', '_', 'S', 'F', 'Z', '=', 'z', ':', 'a', '?'], multiset{multiset{multiset{false}}, multiset{multiset{false}}, multiset{multiset{false}}}), ())), false), []), (([true, true, true], '-'), (('z', ([false, false], ([], multiset{multiset{multiset{}, multiset{true, true, false, false}, multiset{true, true, false, false}}}), ())), false), ['g', 'm', '|'])]
+Mq'Z_%YWVyP!uzXd/Lt;AkiF-
+[{}, {-495214154, 958899950}, {-1460215406}, {-1586706699}, {1046350686}]
+multiset{(multiset{false}, multiset{1239834354, -1215238448, 344533039, -2091723846}, ()), (multiset{}, multiset{145708557, 145708557, -1565494165, -403366413, -1095939377}, ())}true
+eEb|i-2
+
+Dafny program verifier did not attempt verification
+Y
+()
+[]
+({905773325, -220003720, -1085714569, 1165203575}, multiset{})
+([multiset{('i', (), -220003720), ('y', (), -1085714569), ('y', (), -1085714569), ('y', (), -1085714569), ('c', (), 297032371)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}], {(('J', 1535875554, true), -609880494)})'\"'
+true
+multiset{false, true, true}
+true
+Y
+()
+[]
+mEHJCx$;@W@CfI:^CjqL|w|a-g()
+'F'(['v', 'B', 'f', 'S', ':', 'X', '~', 'Y', 'l', 'w', '\"', '=', 'f', '?', '<', 'k'], true, true)
+{}
+()
+multiset{}
+[(({727831326, -1566109775}, false), ()), (({-170645690, -609880494, 385811030, 1676219979}, true), ())]false
+[[';', '!', 'm', '%', 'a', 'u', '?', 'r', 'f', 'q', 'L', '@'], ['C', 'H', 'T', 'H'], ['A', '>', 'd', 'q', 'J', 'k', 'z', 'g', 'E', 'n', 'L', 'c', 'f', 'A', 'E', 'R'], ['C', 'H', 'T', 'H']]
+(function (_42_arg__440, _43_arg__441, _44_arg__442, _45_arg__443, _46_arg__444) {
+  return _dafny.Tuple.of(new BigNumber(1961311126), _dafny.Tuple.of());
+}, ['c', 'R', 'b', 'D', 'O', 'I', '<', '\"', '&', 'C', 'Y', 'v', 'v', 'f', 'f', 'j', 'U', 'k', '&', '%', '/', 'U', 'n', 'Q', 'N', 'V', 't', 'r', '/', 'U'])[['|', '\'', 'R', 'j', 'p', ':', 'e', '$', 'Z', 'd', '>', 'u', 'W', 'P', 'j', 't', ':', 'v', 'w', '>', '\"', 'J', '@', 'D', 'u', 'V']]
+true
+{{false, true}, {true}, {false}}-984551019
+('U', {-170645690, -1215238448, -564899479, 1711606252}, multiset{false, false, false, true})
+1007738232function () {
+          return _dafny.MultiSet.fromElements(_2_arg__591, new _dafny.CodePoint('k'.codePointAt(0)));
+        }
+195509236672120208true
+-1843141671
+false({-18139583, 990025716}, [true, true])
+'&'
+[(([], 'B'), (('<', ([false], (['p', '|', 's', '_', 'M', 'P', 'Y', 'm', 'B', 'q', 'Y', '^', '<', 'R', 'G', 't', 'x', '+', 'G', '*', 'K'], multiset{multiset{multiset{true}, multiset{false, false, true, true, true}, multiset{true, true, false}}, multiset{}}), ())), false), ['v', 'N', '!', 'g']), (([true, false, true], 'Q'), (('L', ([false, false, false], (['Q', 'L', 'M', '_', 'S', 'F', 'Z', '=', 'z', ':', 'a', '?'], multiset{multiset{multiset{false}}, multiset{multiset{false}}, multiset{multiset{false}}}), ())), false), []), (([true, true, true], '-'), (('z', ([false, false], ([], multiset{multiset{multiset{}, multiset{true, true, false, false}, multiset{true, true, false, false}}}), ())), false), ['g', 'm', '|'])]
+Mq'Z_%YWVyP!uzXd/Lt;AkiF-
+[{}, {958899950, -495214154}, {-1460215406}, {-1586706699}, {1046350686}]
+multiset{(multiset{false}, multiset{1239834354, -1215238448, 344533039, -2091723846}, ()), (multiset{}, multiset{145708557, 145708557, -1565494165, -403366413, -1095939377}, ())}true
+eEb|i-2
+
+Dafny program verifier did not attempt verification
+Y
+()
+[]
+({905773325, -220003720, -1085714569, 1165203575}, multiset{})
+([multiset{('i', (), -220003720), ('y', (), -1085714569), ('y', (), -1085714569), ('y', (), -1085714569), ('c', (), 297032371)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}, multiset{('d', (), 1218140827), ('/', (), -15002749)}], {(('J', 1535875554, true), -609880494)})'\"'
+true
+multiset{false, true, true}
+true
+Y
+()
+[]
+mEHJCx$;@W@CfI:^CjqL|w|a-g()
+'F'(['v', 'B', 'f', 'S', ':', 'X', '~', 'Y', 'l', 'w', '\"', '=', 'f', '?', '<', 'k'], true, true)
+{}
+()
+multiset{}
+[(({727831326, -1566109775}, false), ()), (({-170645690, -609880494, 385811030, 1676219979}, true), ())]false
+[[';', '!', 'm', '%', 'a', 'u', '?', 'r', 'f', 'q', 'L', '@'], ['C', 'H', 'T', 'H'], ['A', '>', 'd', 'q', 'J', 'k', 'z', 'g', 'E', 'n', 'L', 'c', 'f', 'A', 'E', 'R'], ['C', 'H', 'T', 'H']]
+(func(dafny.Tuple, bool, dafny.Tuple, dafny.Set, dafny.MultiSet) dafny.Tuple, ['c', 'R', 'b', 'D', 'O', 'I', '<', '\"', '&', 'C', 'Y', 'v', 'v', 'f', 'f', 'j', 'U', 'k', '&', '%', '/', 'U', 'n', 'Q', 'N', 'V', 't', 'r', '/', 'U'])[['|', '\'', 'R', 'j', 'p', ':', 'e', '$', 'Z', 'd', '>', 'u', 'W', 'P', 'j', 't', ':', 'v', 'w', '>', '\"', 'J', '@', 'D', 'u', 'V']]
+true
+{{false, true}, {true}, {false}}-984551019
+('U', {-170645690, -1215238448, -564899479, 1711606252}, multiset{false, false, false, true})
+1007738232func() dafny.MultiSet
+195509236672120208true
+-1843141671
+false({-18139583, 990025716}, [true, true])
+'&'
+[(([], 'B'), (('<', ([false], (['p', '|', 's', '_', 'M', 'P', 'Y', 'm', 'B', 'q', 'Y', '^', '<', 'R', 'G', 't', 'x', '+', 'G', '*', 'K'], multiset{multiset{multiset{true}, multiset{false, false, true, true, true}, multiset{true, true, false}}, multiset{}}), ())), false), ['v', 'N', '!', 'g']), (([true, false, true], 'Q'), (('L', ([false, false, false], (['Q', 'L', 'M', '_', 'S', 'F', 'Z', '=', 'z', ':', 'a', '?'], multiset{multiset{multiset{false}}, multiset{multiset{false}}, multiset{multiset{false}}}), ())), false), []), (([true, true, true], '-'), (('z', ([false, false], ([], multiset{multiset{multiset{}, multiset{true, true, false, false}, multiset{true, true, false, false}}}), ())), false), ['g', 'm', '|'])]
+Mq'Z_%YWVyP!uzXd/Lt;AkiF-
+[{}, {958899950, -495214154}, {-1460215406}, {-1586706699}, {1046350686}]
+multiset{(multiset{false}, multiset{1239834354, -1215238448, 344533039, -2091723846}, ()), (multiset{}, multiset{145708557, 145708557, -1565494165, -403366413, -1095939377}, ())}true
+eEb|i-2
