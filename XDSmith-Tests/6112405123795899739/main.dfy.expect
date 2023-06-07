@@ -35,13 +35,13 @@ multiset{-2041303455, -1426474951, -485879497}
 (false, true, '/')
 
 Dafny program verifier did not attempt verification
-/Users/alex/fyp/xdsmith/output/6112405123795899739/main-java/_System/__default.java:2171: error: incompatible types: CodePoint cannot be converted to int
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/6112405123795899739/main-java/_System/__default.java:2171: error: incompatible types: CodePoint cannot be converted to int
   return dafny.DafnySequence.of(dafny.TypeDescriptor.UNICODE_CHAR, dafny.CodePoint.valueOf('^'), dafny.CodePoint.valueOf(_791_lift__207), dafny.CodePoint.valueOf(_792_lift__116));
                                                                                                                          ^
-/Users/alex/fyp/xdsmith/output/6112405123795899739/main-java/_System/__default.java:2171: error: incompatible types: CodePoint cannot be converted to int
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/6112405123795899739/main-java/_System/__default.java:2171: error: incompatible types: CodePoint cannot be converted to int
   return dafny.DafnySequence.of(dafny.TypeDescriptor.UNICODE_CHAR, dafny.CodePoint.valueOf('^'), dafny.CodePoint.valueOf(_791_lift__207), dafny.CodePoint.valueOf(_792_lift__116));
                                                                                                                                                                   ^
-/Users/alex/fyp/xdsmith/output/6112405123795899739/main-java/_System/__default.java:2172: error: incompatible types: int cannot be converted to CodePoint
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/6112405123795899739/main-java/_System/__default.java:2172: error: incompatible types: int cannot be converted to CodePoint
 })).apply(_593_lift__207, _704_lift__116), dafny.Tuple3.<dafny.CodePoint, dafny.DafnySequence<? extends dafny.CodePoint>, Boolean>create(dafny.CodePoint.valueOf('c'), ((dafny.DafnySequence<? extends dafny.CodePoint>)(java.lang.Object)(dafny.Helpers.<dafny.DafnySequence<? extends dafny.CodePoint>, dafny.DafnySequence<? extends dafny.CodePoint>>Let(dafny.DafnySequence.<dafny.CodePoint> empty(dafny.TypeDescriptor.UNICODE_CHAR), boxed56 -> {
           ^
 Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
