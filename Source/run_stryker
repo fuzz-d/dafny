@@ -1,0 +1,3 @@
+#!/bin/bash
+
+dotnet-stryker -f stryker.config.json -O ../StrykerOutput
