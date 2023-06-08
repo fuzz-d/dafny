@@ -1,0 +1,103 @@
+
+Dafny program verifier did not attempt verification
+1604063513
+-193062931
+1125058274
+-396757870
+-1096475789
+-1352961084
+-579759426
+-1181041526
+-1096475789
+-1352961084
+789133423
+-1352961084
+-425005805
+1475738399
+-1352961084
+-1181041526
+654130732
+-732084883
+-1352961084
+1604063513
+1121378925
+
+Dafny program verifier did not attempt verification
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/7493767136803197157/main-java/_System/__default.java:691: error: incompatible types: CodePoint cannot be converted to int
+  return dafny.CodePoint.valueOf(_194_lift__90);
+                                 ^
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/7493767136803197157/main-java/_System/__default.java:692: error: incompatible types: int cannot be converted to CodePoint
+})).apply(_122_lift__90), dafny.Tuple3.<dafny.DafnySequence<? extends dafny.CodePoint>, java.math.BigInteger, java.math.BigInteger>create(dafny.DafnySequence.asUnicodeString("Lc\"yV<;"), java.math.BigInteger.valueOf(-883612731L), java.math.BigInteger.valueOf(1942404868L)), dafny.Tuple2.<Boolean, dafny.Tuple2<dafny.Tuple3<dafny.DafnySet<? extends dafny.DafnyMultiset<? extends dafny.Tuple0>>, dafny.CodePoint, Boolean>, dafny.DafnySet<? extends dafny.CodePoint>>>create(false, dafny.Tuple2.<dafny.Tuple3<dafny.DafnySet<? extends dafny.DafnyMultiset<? extends dafny.Tuple0>>, dafny.CodePoint, Boolean>, dafny.DafnySet<? extends dafny.CodePoint>>create(dafny.Tuple3.<dafny.DafnySet<? extends dafny.DafnyMultiset<? extends dafny.Tuple0>>, dafny.CodePoint, Boolean>create(dafny.DafnySet.of(((dafny.DafnyMultiset<? extends dafny.Tuple0>)(java.lang.Object)(dafny.Helpers.<dafny.DafnyMultiset<? extends dafny.Tuple0>, dafny.DafnyMultiset<? extends dafny.Tuple0>>Let(dafny.DafnyMultiset.<dafny.Tuple0> empty(), boxed12 -> {
+          ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+2 errors
+Error while compiling Java files. Process exited with exit code 1
+
+Dafny program verifier did not attempt verification
+1604063513
+-193062931
+1125058274
+-396757870
+-1096475789
+-1352961084
+-579759426
+-1181041526
+-1096475789
+-1352961084
+789133423
+-1352961084
+-425005805
+1475738399
+-1352961084
+-1181041526
+654130732
+-732084883
+-1352961084
+1604063513
+1121378925
+
+Dafny program verifier did not attempt verification
+1604063513
+-193062931
+1125058274
+-396757870
+-1096475789
+-1352961084
+-579759426
+-1181041526
+-1096475789
+-1352961084
+789133423
+-1352961084
+-425005805
+1475738399
+-1352961084
+-1181041526
+654130732
+-732084883
+-1352961084
+1604063513
+1121378925
+
+Dafny program verifier did not attempt verification
+1604063513
+-193062931
+1125058274
+-396757870
+-1096475789
+-1352961084
+-579759426
+-1181041526
+-1096475789
+-1352961084
+789133423
+-1352961084
+-425005805
+1475738399
+-1352961084
+-1181041526
+654130732
+-732084883
+-1352961084
+1604063513
+1121378925

@@ -1,0 +1,100 @@
+
+Dafny program verifier did not attempt verification
+-74751769
+417010522
+262944535
+-294487263
+-294487263
+-747064567
+417010522
+-1137209690
+-1290612115
+-775003644
+-343146572
+589303782
+781632048
+-570144945
+-12725261
+-1290612115
+1072149246
+-294487263
+1072149246
+1838041483
+781632048
+
+Dafny program verifier did not attempt verification
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/-1120896521484834245/main-java/_System/__default.java:659: error: incompatible types: int cannot be converted to CodePoint
+    _54_lift__166 = dafny.DafnyMultiset.<dafny.DafnyMultiset<? extends dafny.CodePoint>>update(((dafny.DafnyMultiset<? extends dafny.DafnyMultiset<? extends dafny.CodePoint>>)(java.lang.Object)((__default.<java.util.function.Function<java.math.BigInteger, dafny.DafnyMultiset<? extends dafny.DafnyMultiset<? extends dafny.CodePoint>>>>safeSeqRef(dafny.TypeDescriptor.function(dafny.TypeDescriptor.BIG_INTEGER, dafny.DafnyMultiset.<dafny.DafnyMultiset<? extends dafny.CodePoint>>_typeDescriptor(dafny.DafnyMultiset.<dafny.CodePoint>_typeDescriptor(dafny.TypeDescriptor.UNICODE_CHAR))), _40_lift__194, _59_lift__160, __default::lift__195)).apply(__default.<java.math.BigInteger>safeSeqRef(dafny.TypeDescriptor.BIG_INTEGER, dafny.DafnySequence.of(dafny.TypeDescriptor.BIG_INTEGER, _121_lift__30, _141_lift__11, _50_lift__182), _52_lift__180, _86_lift__98)))), dafny.DafnyMultiset.<dafny.CodePoint>update((dafny.Tuple2.<dafny.Tuple0, dafny.DafnyMultiset<? extends dafny.CodePoint>>create(dafny.Tuple0.create(), _39_lift__202)).dtor__1(), (_37_lift__204).dtor__2().value(), __default.lengthNormalize(__default.lift__186())), __default.lengthNormalize(java.math.BigInteger.valueOf((dafny.DafnySet.<Boolean>difference(_44_lift__190, _136_lift__16)).size())));
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+1 error
+Error while compiling Java files. Process exited with exit code 1
+
+Dafny program verifier did not attempt verification
+-74751769
+417010522
+262944535
+-294487263
+-294487263
+-747064567
+417010522
+-1137209690
+-1290612115
+-775003644
+-343146572
+589303782
+781632048
+-570144945
+-12725261
+-1290612115
+1072149246
+-294487263
+1072149246
+1838041483
+781632048
+
+Dafny program verifier did not attempt verification
+-74751769
+417010522
+262944535
+-294487263
+-294487263
+-747064567
+417010522
+-1137209690
+-1290612115
+-775003644
+-343146572
+589303782
+781632048
+-570144945
+-12725261
+-1290612115
+1072149246
+-294487263
+1072149246
+1838041483
+781632048
+
+Dafny program verifier did not attempt verification
+-74751769
+417010522
+262944535
+-294487263
+-294487263
+-747064567
+417010522
+-1137209690
+-1290612115
+-775003644
+-343146572
+589303782
+781632048
+-570144945
+-12725261
+-1290612115
+1072149246
+-294487263
+1072149246
+1838041483
+781632048

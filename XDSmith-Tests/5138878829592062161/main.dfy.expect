@@ -1,0 +1,20 @@
+
+Dafny program verifier did not attempt verification
+2
+
+Dafny program verifier did not attempt verification
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/5138878829592062161/main-java/_System/__default.java:564: error: incompatible types: char cannot be converted to CodePoint
+      dafny.Tuple2<java.math.BigInteger, java.math.BigInteger> _outcollector2 = __default.lift__127(((java.math.BigInteger)(java.lang.Object)(dafny.DafnyMultiset.<dafny.CodePoint>multiplicity((_89_lift__121), 'e'))));
+                                                                                                                                                                                                                 ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+1 error
+Error while compiling Java files. Process exited with exit code 1
+
+Dafny program verifier did not attempt verification
+2
+
+Dafny program verifier did not attempt verification
+2
+
+Dafny program verifier did not attempt verification
+2

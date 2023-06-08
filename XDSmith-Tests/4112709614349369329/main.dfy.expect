@@ -1,0 +1,105 @@
+
+Dafny program verifier did not attempt verification
+-703372137
+1
+1448095788
+789329981
+1448095788
+543667895
+-964202420
+-208466811
+-1992292669
+936385559
+936385559
+1448095788
+-1440223133
+-1440223133
+0
+3
+-1796476602
+88959641
+1448095788
+1448095788
+
+Dafny program verifier did not attempt verification
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/4112709614349369329/main-java/_System/__default.java:737: error: incompatible types: int cannot be converted to CodePoint
+      System.out.print(java.lang.String.valueOf(((java.math.BigInteger)(java.lang.Object)(dafny.DafnyMultiset.<dafny.CodePoint>multiplicity((dafny.DafnyMultiset.of(dafny.CodePoint.valueOf(_183_lift__38), dafny.CodePoint.valueOf(_189_lift__24), dafny.CodePoint.valueOf(_181_lift__40))), __default.lift__46(_181_lift__40))))));
+                                                                                                                                                                                                                                                                                                                ^
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/4112709614349369329/main-java/_System/__default.java:830: error: incompatible types: CodePoint cannot be converted to int
+        return dafny.CodePoint.valueOf(_227_lift__39);
+                                       ^
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/4112709614349369329/main-java/_System/__default.java:831: error: incompatible types: int cannot be converted to CodePoint
+      })).apply(_182_lift__39)).apply(_225_lift__126, _172_lift__127, dafny.Tuple0.create(), _171_lift__128))).value()) <= (__default.lift__46(_224_lift__131))) && ((__default.lift__46(_224_lift__131)) < ((_193_lift__20).dtor__1().value()))) {
+                ^
+/home/ubuntu/dafny/Source/StrykerTests/bin/Debug/net6.0/TestFiles/LitTests/LitTest/4112709614349369329/main-java/_System/__default.java:1038: error: incompatible types: int cannot be converted to CodePoint
+        System.out.print(java.lang.String.valueOf(((java.math.BigInteger)(java.lang.Object)(dafny.DafnyMultiset.<dafny.CodePoint>multiplicity((_132_lift__252), _177_lift__118)))));
+                                                                                                                                                                ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+4 errors
+Error while compiling Java files. Process exited with exit code 1
+
+Dafny program verifier did not attempt verification
+-703372137
+1
+1448095788
+789329981
+1448095788
+543667895
+-964202420
+-208466811
+-1992292669
+936385559
+936385559
+1448095788
+-1440223133
+-1440223133
+0
+3
+-1796476602
+88959641
+1448095788
+1448095788
+
+Dafny program verifier did not attempt verification
+-703372137
+1
+1448095788
+789329981
+1448095788
+543667895
+-964202420
+-208466811
+-1992292669
+936385559
+936385559
+1448095788
+-1440223133
+-1440223133
+0
+3
+-1796476602
+88959641
+1448095788
+1448095788
+
+Dafny program verifier did not attempt verification
+-703372137
+1
+1448095788
+789329981
+1448095788
+543667895
+-964202420
+-208466811
+-1992292669
+936385559
+936385559
+1448095788
+-1440223133
+-1440223133
+0
+3
+-1796476602
+88959641
+1448095788
+1448095788
