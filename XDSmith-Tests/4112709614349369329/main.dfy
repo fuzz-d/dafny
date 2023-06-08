@@ -1,9 +1,9 @@
-//
-//
-//
-//
-//
-//
+// RUN: %dafny /noVerify /compile:4 /compileTarget:cs "%s" > "%t"
+// RUN: %exits-with 3 %dafny /noVerify /compile:4 /compileTarget:java "%s" >> "%t"
+// RUN: %dafny /noVerify /compile:4 /compileTarget:py "%s" >> "%t"
+// RUN: %dafny /noVerify /compile:4 /compileTarget:js "%s" >> "%t"
+// RUN: %dafny /noVerify /compile:4 /compileTarget:go "%s" >> "%t"
+// RUN: %diff "%s.expect" "%t"
 
 // Seed: 4112709614349369329
 // This is a RANDOMLY GENERATED PROGRAM.
