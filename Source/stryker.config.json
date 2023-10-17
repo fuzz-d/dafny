@@ -1,0 +1,13 @@
+{
+    "stryker-config":
+    {
+        "solution": "./Stryker.sln",
+        "mutation-level": "Advanced",
+        "coverage-analysis": "off",
+        "mutate": [
+            "**/DafnyCore/Compilers/SinglePassCompiler.cs"
+        ],
+        "break-on-initial-test-failure": true,
+        "additional-timeout": 15000
+    }
+}
